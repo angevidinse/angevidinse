@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>Ange</title>
+<meta charset="utf-8" /> <link rel="stylesheet" href="styles.css" />
+    </head>
+<body>
+    <h1>Bienvenue sur mon site</h1>
+    Ce site ici présent à été créer pour vous divertir. Il  comporte 4 parties qui sont: <strong>(Enigme, quiz, dévinette</strong> et<strong> blague).</strong><BR />
+<p>Pour commencer on va passé par un échauffement.</p>
+<m><P><H2>ENIGME:</H2></P></m>
+<FOOTER>
+<p>👗 + 👗 + 👗 + 👗 +👗 = 100</p>
+<p>🎨 + 🎨 + 🎨 + 👗 + 👗 = 85</p>
+<p>🥎 + 🎨 + 🎨 + 👗 = 75</p>
+<p>🥎 - 🎨 + 🎨 x 👗 = ?</p>
+</FOOTER>
+    <p>
+    Veuillez choisir la bonne réponse :<br />
+    <input type="radio" name="age" value="moins15" id="moins15"
+    /> <label for="moins15">a-) 390</label><br />
+    <input type="radio" name="age" value="310"
+    id="medium15-25" /> <label for="medium15-25">b-) 310</label><br />
+    <input type="radio" name="age" value="medium25-40"
+    id="medium25-40" /> <label for="medium25-40">c-) 200</label><br />
+    <input type="radio" name="age" value="plus40" id="plus40" />
+    <label for="plus40">d-) 250</label>
+</p>
+    <form method="get" action="site.html">
+    <p><input type="submit" name="nom" value="Ok"></p>
+    </form>
+</body>
+</html>
